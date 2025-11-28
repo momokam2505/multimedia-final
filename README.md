@@ -1,1 +1,87 @@
-allo
+Welcome file
+# tp 2 multimédia
+
+## Contenue des diapositive
+
+
+
+1. Mon profil multimédia : créatif, technique ou hybride?  
+2. Pourquoi j’ai choisi le programme TIM 
+3. Mon domaine multimédia préféré  
+4. Mes forces  
+5. Mes faiblesse
+6. Mon domaine multimédia préféré
+7. Mon domaine multimédia le moins préféré
+8. Mon premier choix de carrière ou d’études universitaires
+9. Mon deuxième choix de carrière ou d’études universitaires
+10. Conclusion  
+
+---  
+## Introduction  
+### Titre  
+- Mon profil multimédia  
+### Auteur  
+- Mohamed Kammour  
+### Date de création  
+- 2025-11-27 
+### Description  
+- C'est un power point contenant des information sur mon profil multimédia, mes faiblesses, mes forces, ce que je veut faire plus tard etc...
+
+## Lien ; image, mind map, mood board et diagramme de flux
+
+### Image  
+- [[11 Amazing Facts About Adobe Photoshop](https://ena.our-dogs.info/facts-ph.html#google_vignette)]
+- [Multimedia](https://animalia-life.club/qa/pictures/multimedia-technology-background) [](https://animalia-life.club/qa/pictures/multimedia-technology-background) [Technology](https://animalia-life.club/qa/pictures/multimedia-technology-background) [Background](https://animalia-life.club/qa/pictures/multimedia-technology-background) 
+[Fondo de botón de espacio redondo | Foto Premium](https://www.freepik.es/fotos-premium/fondo-boton-espacio-redondo_34073171.htm)
+- [Optimizing](https://ai.gopubby.com/optimizing-rag-system-performance-with-ensemble-retriever-0e39e91bed7b) [RAG System Performance](https://ai.gopubby.com/optimizing-rag-system-performance-with-ensemble-retriever-0e39e91bed7b) [with](https://ai.gopubby.com/optimizing-rag-system-performance-with-ensemble-retriever-0e39e91bed7b) [Ensemble Retriever | by Amit Kulkarni | AI](https://ai.gopubby.com/optimizing-rag-system-performance-with-ensemble-retriever-0e39e91bed7b) [Advances](https://ai.gopubby.com/optimizing-rag-system-performance-with-ensemble-retriever-0e39e91bed7b)
+- [Cool Music Backgrounds - Wallpaper Cave](https://wallpapercave.com/cool-music-backgrounds#google_vignette)
+- [Cool Music Backgrounds - Wallpaper Cave](https://wallpapercave.com/cool-music-backgrounds)
+- [Apprendre la photographie : les bases à connaître - Magazine](https://www.nouvelr.fr/apprendre-la-photographie-les-bases-a-connaitre-1564.html#google_vignette) [NouvelR](https://www.nouvelr.fr/apprendre-la-photographie-les-bases-a-connaitre-1564.html#google_vignette)
+- [Designer graphique : quels sont les avantages et inconvénients ? - Erba Valence](https://www.erba-valence.fr/designer-graphique-quels-sont-les-avantages-et-inconvenients/)
+- [animation 2d - Recherche Images](https://www.bing.com/images/search?view=detailV2&ccid=Quo8ghxJ&id=DB77101F601D5E82A36D78EC71D73E961AD597DA&thid=OIP.Quo8ghxJA3mwGhsuXRZCmgHaEF&mediaurl=https%3a%2f%2fmarketsplash.com%2fcontent%2fimages%2fsize%2fw2400%2f2021%2f05%2fOpenToonz-1.jpeg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.42ea3c821c490379b01a1b2e5d16429a%3frik%3d2pfVGpY%252b13HseA%26pid%3dImgRaw%26r%3d0&exph=1322&expw=2400&q=animation+2d&FORM=IRPRST&ck=9B135BA1B25BEF64DB72A84FB01C5318&selectedIndex=9&itb=0&ajaxhist=0&ajaxserp=0)
+- [Semiconductor Photos - Download Free High-Quality Pictures |](https://www.freepik.com/photos/semiconductor) [Freepik](https://www.freepik.com/photos/semiconductor)
+### Mind map  
+- https://app.diagrams.net/#G1vdHQJkd30ATcYy2fTX7v303OxSTI_FoQ#%7B%22pageId%22%3A%22eyrjqKleUos-2p1P1mp4%22%7D
+
+### Moodboard  
+-
+
+### Diagramme de flux  
+-
+tp 2 multimédia
+Contenue des diapositive
+Mon profil multimédia : créatif, technique ou hybride?
+Pourquoi j’ai choisi le programme TIM
+Mon domaine multimédia préféré
+Mes forces
+Mes faiblesse
+Mon domaine multimédia préféré
+Mon domaine multimédia le moins préféré
+Mon premier choix de carrière ou d’études universitaires
+Mon deuxième choix de carrière ou d’études universitaires
+Conclusion
+Introduction
+Titre
+Mon profil multimédia
+Auteur
+Mohamed Kammour
+Date de création
+2025-11-27
+Description
+C’est un power point contenant des information sur mon profil multimédia, mes faiblesses, mes forces, ce que je veut faire plus tard etc…
+Lien ; image, mind map, mood board et diagramme de flux
+Image
+[11 Amazing Facts About Adobe Photoshop]
+Multimedia Technology Background
+Fondo de botón de espacio redondo | Foto Premium
+Optimizing RAG System Performance with Ensemble Retriever | by Amit Kulkarni | AI Advances
+Cool Music Backgrounds - Wallpaper Cave
+Cool Music Backgrounds - Wallpaper Cave
+Apprendre la photographie : les bases à connaître - Magazine NouvelR
+Designer graphique : quels sont les avantages et inconvénients ? - Erba Valence
+animation 2d - Recherche Images
+Semiconductor Photos - Download Free High-Quality Pictures | Freepik
+Mind map
+https://app.diagrams.net/#G1vdHQJkd30ATcYy2fTX7v303OxSTI_FoQ#{"pageId"%3A"eyrjqKleUos-2p1P1mp4"}
+Moodboard
+Diagramme de flux
